@@ -1,9 +1,6 @@
 .vscode/
 csv_project/
 .venv/
-sitka_weather_07-2018_simple.csv
-sitka_weather_2018_simple.csv
 CSV final image.PNG
-death_valley_2018_simple.csv
 csv_temps_1.py
 readCSV.py
